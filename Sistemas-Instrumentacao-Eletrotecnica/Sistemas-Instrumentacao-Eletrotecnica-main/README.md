@@ -1,4 +1,4 @@
-# Electrical Instrumentation & Measurement Systems
+# Electrical Instrumentation & Measurement Systems (SIE)
 
 This repository contains circuit designs, analog signal conditioning stages, and embedded firmware developed for the **Sistemas de Instrumentação Eletrotécnica** curricular unit. Complete circuit justifications, operational amplifier selection, passive filter calculations, and calibration models are thoroughly documented in the accompanying project reports.
 
