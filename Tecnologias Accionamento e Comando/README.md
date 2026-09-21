@@ -1,4 +1,3 @@
-# Actuation and Control Technologies (TAC)
 # SmartPot: Closed-Loop IoT Irrigation & Soil Hydrology Management
 
 An autonomous, cloud-connected plant management system developed as part of the **Tecnologias de Acionamento e Comando (TAC)** curriculum in the MSc in Industrial Automation Engineering at the **University of Aveiro**.
